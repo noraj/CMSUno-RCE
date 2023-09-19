@@ -84,8 +84,8 @@ exploitation technique choice (param used) | two distinct exploits with 95% LoC 
 
 Vulnerability explanation:
 
-- ['user' param - targeting password.php](https://fatihhcelik.blogspot.com/2020/09/cmsuno-162-remote-code-execution.html)
-- ['lang' param - targeting config.php](https://fatihhcelik.blogspot.com/2020/09/cmsuno-162-remote-code-execution_30.html)
+- ['user' param - targeting password.php](https://fatihhcelik.github.io/posts/CMSUno-1.6.2-RCE-Authenticated-(password.php)-CVE-2020-25557/) ([archive](http://web.archive.org/web/20211209035429/https://fatihhcelik.blogspot.com/2020/09/cmsuno-162-remote-code-execution.html))
+- ['lang' param - targeting config.php](https://fatihhcelik.github.io/posts/CMSUno-1.6.2-RCE-Authenticated-(config.php)-CVE-2020-25538/) ([archive](http://web.archive.org/web/20211209102607/https://fatihhcelik.blogspot.com/2020/09/cmsuno-162-remote-code-execution_30.html))
 
 Patch: Update to 1.6.3 or upper.
 
